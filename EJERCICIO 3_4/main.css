@@ -1,0 +1,16 @@
+body {
+    font-size: 20px;
+    }
+.menu {
+    width: 400px;
+    height: 600px;
+    background-color: green;
+    }
+.menu a {
+    width: 40 px;
+    color: white;
+    text-decoration: none;
+    }
+.menu a:hover {
+    color: greenyellow;
+}
